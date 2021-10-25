@@ -8,5 +8,10 @@
       "movie":"Harry Potter and the goblet of fire",
       "year":"2005",
       "quote":"I will not have you, in the course of a single evening, besmirching that name by behaving like a babbling, bumbling band of baboons!"
+   },
+   {
+      "movie":"Mission: Impossible II",
+      "year":"2000",
+      "quote":"If I Let You Know Where I'm Going, I Won't Be On Holiday."
    }
 ]
